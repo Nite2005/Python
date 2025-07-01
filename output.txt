@@ -1,2 +1,1 @@
-file me text write ho gya
-Hi I am nitesh , on 3rd july I will give Interview in amplework software company 
+Python is awesome programming language
